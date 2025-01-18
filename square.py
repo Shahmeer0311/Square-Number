@@ -1,5 +1,5 @@
-First = int(input("Enter the starting number of the range: "))
-Last = int(input("Enter the ending number of the range: "))
+First = int(input("Enter the starting number of the range:"))
+Last = int(input("Enter the ending number of the range:"))
 
 if First > Last:
     print("invalid range!")
